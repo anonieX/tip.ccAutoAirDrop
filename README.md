@@ -33,6 +33,8 @@ This script:
 8. Start main.py
 9. Profit!
 
+---
+
 ## Donations
 ***Donations help keep this project maintained***
 
